@@ -8,9 +8,7 @@
   <a href="https://augur-trade.com/rug/"><img src="https://img.shields.io/badge/rugscope-free_token_scan-b49aff?style=for-the-badge&labelColor=0c0a13" alt="Rugscope"></a>
 </p>
 
-<p align="center">
-  <b>Solana + 13 EVM chains</b> &nbsp;·&nbsp; <b>Scan before every buy</b> &nbsp;·&nbsp; <b>Exits checked every second</b> &nbsp;·&nbsp; <b>Browser, Telegram &amp; Android</b>
-</p>
+<p align="center"><b>Solana + 13 EVM chains</b> · <b>Scan before every buy</b><br><b>Exits checked every second</b> · <b>Browser, Telegram &amp; Android</b></p>
 
 <br>
 
@@ -31,71 +29,33 @@ Every trade runs through the same four stages, in seconds, on rules you control.
 
 ## Platform
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Channel sniper
+#### Channel sniper
 Point it at any Telegram group, channel or X account. When a contract address is posted, it buys within your limits before most readers have opened the message.
 
-</td>
-<td width="50%" valign="top">
-
-### Copy trading, graded first
+#### Copy trading, graded first
 Mirror any wallet with your own size, take-profit and stop-loss. Every wallet gets a copy-backtest grade before you follow, so you know whether copying it would actually have paid.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### Risk scan on every token
+#### Risk scan on every token
 Mint and freeze authority, hidden fees and transfer hooks, holder concentration, developer history, bundles, snipers and liquidity, summed up as one score. It's free.
 
-</td>
-<td valign="top">
-
-### Automated exits
+#### Automated exits
 Take-profit, stop-loss, tiered exits and trailing stops for each trade, checked every second and sold on the fast path.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### Calls, scored
+#### Calls, scored
 Every call from the channels you follow is tracked from the moment it's posted: peak multiple, hit rate and what it actually did.
 
-</td>
-<td valign="top">
-
-### Flow
+#### Flow
 Live market flow: the biggest buys on chain as they happen, hourly volume and the coins wallets are piling into.
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### Multi-wallet execution
+#### Multi-wallet execution
 Run several wallets from one account, buy from many at once, reclaim rent from dead accounts and withdraw anywhere.
 
-</td>
-<td valign="top">
-
-### Multichain, one balance
+#### Multichain, one balance
 Solana plus Ethereum, Base, BNB Chain, Arbitrum, Optimism, Polygon, Avalanche, Robinhood Chain, Berachain, Sonic, Linea, Unichain and HyperEVM, with a built-in bridge.
-
-</td>
-</tr>
-</table>
 
 ## Meet A.L.F
 
-<table>
-<tr>
-<td width="200" valign="top"><img src="media/gifs/augur-blink.gif" alt="A.L.F" width="180"></td>
-<td valign="top">
+<p align="center"><img src="media/gifs/augur-blink.gif" alt="A.L.F" width="160"></p>
 
 **A.L.F** (*Autonomous Learning Framework*) is the agent inside A.U.G.U.R. Paste any contract address and you get a plain-language read in seconds, built from live on-chain data:
 
@@ -107,15 +67,9 @@ Every read ends in one verdict, **BUY**, **WATCH** or **AVOID**, with the reason
 
 [Ask A.L.F →](https://augur-trade.com/alf/)
 
-</td>
-</tr>
-</table>
-
 ## A.U.G.U.R Cards
 
-<table>
-<tr>
-<td valign="top">
+<p align="center"><img src="media/gifs/card.gif" alt="A.U.G.U.R Card" width="420"></p>
 
 Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet, then pay online, in apps and in stores through Google Wallet.
 
@@ -124,11 +78,6 @@ Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet,
 - Six card designs
 
 [See the cards →](https://augur-trade.com/cards/)
-
-</td>
-<td width="440" valign="top"><img src="media/gifs/card.gif" alt="A.U.G.U.R Card" width="420"></td>
-</tr>
-</table>
 
 ## Pricing
 
@@ -143,14 +92,16 @@ Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet,
 ## Gallery
 
 <p align="center">
-  <img src="media/art/see-it-first.jpg" width="32%" alt="">
-  <img src="media/art/snipe.jpg" width="32%" alt="">
-  <img src="media/art/whales.jpg" width="32%" alt="">
+  <img src="media/art/see-it-first.jpg" width="49%" alt="">
+  <img src="media/art/snipe.jpg" width="49%" alt="">
 </p>
 <p align="center">
-  <img src="media/art/rugs.jpg" width="32%" alt="">
-  <img src="media/art/cards-all.jpg" width="32%" alt="">
-  <img src="media/art/throne.jpg" width="32%" alt="">
+  <img src="media/art/whales.jpg" width="49%" alt="">
+  <img src="media/art/rugs.jpg" width="49%" alt="">
+</p>
+<p align="center">
+  <img src="media/art/cards-all.jpg" width="49%" alt="">
+  <img src="media/art/throne.jpg" width="49%" alt="">
 </p>
 <p align="center"><img src="media/art/banner-orbit.jpg" width="100%" alt=""></p>
 
