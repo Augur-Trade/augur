@@ -117,16 +117,12 @@ Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet,
 
 ## What's in this repo
 
-```
-media/
-  header.jpg  screens.jpg  pipeline.jpg  social-preview.jpg
-  screens/    app screenshots (Home, Calls, Snipe, Wallet)
-  art/        posters and banners
-  gifs/       A.L.F blink, card
-  brand/      logo, app icon, avatar, banner
-docs/
-  FAQ.md      BRAND.md
-```
+- **`media/`** · header, app screens, pipeline and social preview
+- **`media/screens/`** · app screenshots: Home, Calls, Snipe, Wallet
+- **`media/art/`** · posters and banners
+- **`media/gifs/`** · A.L.F blink and the card
+- **`media/brand/`** · logo, app icon, avatar, banner
+- **`docs/`** · [FAQ](docs/FAQ.md) and [brand guide](docs/BRAND.md)
 
 <br>
 
