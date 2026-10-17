@@ -4,6 +4,8 @@ Notable releases, newest first.
 
 ## October 2026
 
+- **Liquidity on every launchpad** (17 Oct): risk scans read a bonding curve's real liquidity from the chain for any launchpad, not just pump.fun, and pick the curve over tiny side pools. [Docs](../features/risk-scan.md)
+- **Invite links on augur-trade.com** (17 Oct): invite links, QR codes, share text and invite passes all point to the A.U.G.U.R invite page. [Docs](../features/referrals.md)
 - **Whale copy** (17 Oct): copy Meteora DLMM liquidity whales from your bot wallet.
   - Discover views: *Earning now*, *All*, *A.U.G.U.R* (our own engine's whales and finds) and *New finds*.
   - Ranked by measured copy results, never by the whale's own profit.

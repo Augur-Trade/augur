@@ -15,6 +15,9 @@ Every token gets a free scan **before you buy**: in the Buy screen, on every tok
 | **Insiders** | Supply sitting in wallets that never bought (it was transferred to them) |
 | **Liquidity** | Too little, and you can't exit without crashing the price |
 
+> [!NOTE]
+> **Tokens still on a launchpad bonding curve** (pump.fun, Meteora DBC launchpads, letsbonk and others) have no DEX pool yet, so most market sites show **$0 liquidity** for them. The scan reads the SOL actually sitting in the curve straight from the chain instead: that's what you sell back into. It shows the curve and its launchpad, and never calls a curve token unsellable just because no pool exists yet.
+
 ## Reading the result
 
 The scan sums everything into **one score** with a grade and a verdict. **The higher the score, the safer.** The top flags are listed under it, so you can see *why*.
