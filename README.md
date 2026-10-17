@@ -67,6 +67,13 @@ Every read ends in one verdict, **BUY**, **WATCH** or **AVOID**, with the reason
 
 [Ask A.L.F →](https://augur-trade.com/alf/)
 
+## A.U.G.U.R Synapse
+
+<p align="center"><a href="https://github.com/Augur-Trade/synapse"><img src="https://raw.githubusercontent.com/Augur-Trade/synapse/main/media/header.jpg" alt="A.U.G.U.R Synapse" width="100%"></a></p>
+
+The data behind A.U.G.U.R, opened up to other AI agents: **79 tools** your agent can call over HTTP or MCP and pay for per call with x402 (USDC or SOL on Solana, USDC on Base). That covers pump.fun intelligence, launch and bundle forensics, rug-risk scoring, crypto and DeFi on every chain, and more.
+Endpoint reference, specs and SDKs: **[Augur-Trade/synapse](https://github.com/Augur-Trade/synapse)**
+
 ## A.U.G.U.R Cards
 
 <p align="center"><img src="media/gifs/card.gif" alt="A.U.G.U.R Card" width="420"></p>
