@@ -67,6 +67,13 @@ Every read ends in one verdict, **BUY**, **WATCH** or **AVOID**, with the reason
 
 [Ask A.L.F →](https://augur-trade.com/alf/)
 
+## A.U.G.U.R Rugscope
+
+<p align="center"><a href="https://github.com/Augur-Trade/rugscope"><img src="https://raw.githubusercontent.com/Augur-Trade/rugscope/main/media/header.jpg" alt="A.U.G.U.R Rugscope" width="100%"></a></p>
+
+The rug checker behind every A.U.G.U.R buy, free for anyone: ten engines fire in parallel (bundle forensics, the dev's all-time record, insiders, named wallets, contract traps and a dump-probability model) and return one verdict in about a second. Solana and 13 EVM chains.
+[Scan a token](https://augur-trade.com/rug/) · engines, model card and free API: **[Augur-Trade/rugscope](https://github.com/Augur-Trade/rugscope)**
+
 ## A.U.G.U.R Synapse
 
 <p align="center"><a href="https://github.com/Augur-Trade/synapse"><img src="https://raw.githubusercontent.com/Augur-Trade/synapse/main/media/header.jpg" alt="A.U.G.U.R Synapse" width="100%"></a></p>
