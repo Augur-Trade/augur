@@ -21,6 +21,21 @@ A.L.F (Autonomous Learning Framework) is the AI agent inside A.U.G.U.R. It reads
 **Which chains are supported?**
 Solana, Ethereum, Base, BNB Chain, Arbitrum, Optimism, Polygon, Avalanche, Robinhood Chain, Berachain, Sonic, Linea, Unichain and HyperEVM, with a built-in bridge.
 
+**What is whale copy?**
+It copies the liquidity positions of Meteora DLMM whales from your bot wallet, at your size, with a stop-loss and a daily loss limit. Whales are ranked by what copying them actually returned, and the default view only shows whales copiers are profiting on right now. It costs 10% of the profit on winning copies and nothing on losses. [Full guide](features/whale-copy.md).
+
+**Why doesn't whale copy rank whales by their own profit?**
+Because it doesn't predict copy results. Across 62 whales, a whale's own 30-day return and its copiers' 30-day return were essentially uncorrelated. Most "profit" in whales' own books is also token value at the moment of withdrawal, not SOL. [Details](features/whale-copy.md#where-the-numbers-come-from).
+
+**Are my bot wallets mine?**
+Yes. You can export the private key of any bot wallet from Wallet and import it into Phantom or any other Solana wallet.
+
+**How do holder rewards work?**
+Half of all platform fees go to holders, paid daily at 12:00 UTC in SOL. 5M+ holders share 12.5% of fees, and 10M+ holders share a further 37.5%. There is nothing to claim. [Details](features/holder-rewards.md).
+
+**Where are the full docs?**
+In [docs/](README.md): guides, every feature, pricing, a glossary and the changelog.
+
 **Can I try it without an account?**
 Yes. The [live demo](https://augur-trade.com/app/?explore=1) runs the real app on a demo account. Nothing in it is real money.
 

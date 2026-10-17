@@ -32,6 +32,9 @@ Every trade runs through the same four stages, in seconds, on rules you control.
 #### Channel sniper
 Point it at any Telegram group, channel or X account. When a contract address is posted, it buys within your limits before most readers have opened the message.
 
+#### Whale copy
+Copy Meteora liquidity whales, ranked by what copying them actually returned. Only the whales copiers are profiting on right now make the default list.
+
 #### Copy trading, graded first
 Mirror any wallet with your own size, take-profit and stop-loss. Every wallet gets a copy-backtest grade before you follow, so you know whether copying it would actually have paid.
 
@@ -52,6 +55,17 @@ Run several wallets from one account, buy from many at once, reclaim rent from d
 
 #### Multichain, one balance
 Solana plus Ethereum, Base, BNB Chain, Arbitrum, Optimism, Polygon, Avalanche, Robinhood Chain, Berachain, Sonic, Linea, Unichain and HyperEVM, with a built-in bridge.
+
+## Whale copy
+
+<p align="center">
+  <img src="media/screens/whale-discover.jpg" width="32%" alt="Whale copy: Discover">
+  <img src="media/screens/whale-detail.jpg" width="32%" alt="Whale copy: whale detail">
+  <img src="media/screens/whale-book.jpg" width="32%" alt="Whale copy: live position and the whale's own book">
+</p>
+
+Copy Meteora DLMM liquidity whales from your own bot wallet, at your size, with a stop-loss and a daily loss limit. Whales are ranked by **what copying them actually returned**, never by their own profit, and the default view shows only the whales copiers are profiting on right now. 10% of profit on winning copies, nothing on losses.
+[How it works →](docs/features/whale-copy.md)
 
 ## Meet A.L.F
 
@@ -101,6 +115,7 @@ Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet,
 | **Sells** | Free |
 | **Subscription** | None. Every feature is included |
 | **Risk scan** | Free on every token |
+| **Whale copy** | 10% of profit on winning copies, nothing on losses |
 | **Referrals** | Invitees get 10% of fees back for 14 days |
 
 ## Gallery
@@ -119,6 +134,19 @@ Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet,
 </p>
 <p align="center"><img src="media/art/banner-orbit.jpg" width="100%" alt=""></p>
 
+## Documentation
+
+Full docs live in **[docs/](docs/README.md)**:
+
+| Guides | Features | Reference |
+|---|---|---|
+| [Getting started](docs/guides/getting-started.md) | [Buying and selling](docs/features/buying-and-selling.md) · [Automated exits](docs/features/automated-exits.md) | [Glossary](docs/reference/glossary.md) |
+| [App tour](docs/guides/app-tour.md) | [Channel sniper](docs/features/channel-sniper.md) · [Calls and Top Picks](docs/features/calls-and-top-picks.md) | [Changelog](docs/reference/changelog.md) |
+| [Platforms](docs/guides/platforms.md) | [Copy trading](docs/features/copy-trading.md) · [Whale copy](docs/features/whale-copy.md) · [Flow](docs/features/flow.md) | [FAQ](docs/FAQ.md) |
+| [Staying safe](docs/guides/staying-safe.md) | [Wallets](docs/features/wallets.md) · [Multichain](docs/features/multichain.md) · [Cards](docs/features/cards.md) | [Brand guide](docs/BRAND.md) |
+| [Troubleshooting](docs/guides/troubleshooting.md) | [Risk scan](docs/features/risk-scan.md) · [A.L.F](docs/features/alf.md) | |
+| | [Pricing and fees](docs/features/pricing-and-fees.md) · [Referrals](docs/features/referrals.md) · [Holder rewards](docs/features/holder-rewards.md) | |
+
 ## Learn
 
 - [How to spot a rug pull on Solana](https://augur-trade.com/guides/how-to-spot-a-rug-pull-solana/)
@@ -127,16 +155,16 @@ Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet,
 - [Mint and freeze authority, explained](https://augur-trade.com/guides/solana-mint-freeze-authority/)
 - [Solana bundle checker](https://augur-trade.com/guides/solana-bundle-checker/)
 - [Reclaim Solana rent](https://augur-trade.com/guides/reclaim-solana-rent/)
-- [FAQ](docs/FAQ.md) · [Brand guide](docs/BRAND.md)
+- [Full documentation](docs/README.md) · [FAQ](docs/FAQ.md) · [Brand guide](docs/BRAND.md)
 
 ## What's in this repo
 
 - **`media/`** · header, app screens, pipeline and social preview
-- **`media/screens/`** · app screenshots: Home, Calls, Snipe, Wallet
+- **`media/screens/`** · app screenshots: Home, Calls, Snipe, Wallet, Whale copy
 - **`media/art/`** · posters and banners
 - **`media/gifs/`** · A.L.F blink and the card
 - **`media/brand/`** · logo, app icon, avatar, banner
-- **`docs/`** · [FAQ](docs/FAQ.md) and [brand guide](docs/BRAND.md)
+- **`docs/`** · [documentation](docs/README.md): guides, features, pricing, glossary, changelog, [FAQ](docs/FAQ.md) and [brand guide](docs/BRAND.md)
 
 <br>
 
