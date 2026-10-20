@@ -19,6 +19,12 @@ Each sniper has its own:
 
 Armed snipers sit first. Each card shows the source (TG or X), the thread being watched, the buy/TP/SL strip and edit and delete buttons. If the same group is added more than once, the card says so, because **every armed copy buys**.
 
+## Speed and safety
+
+- **Fast**: a call is usually picked up about a second after it's posted, and the buy lands about half a second after that.
+- **Empty wallet**: if your wallet doesn't have the SOL for a snipe on two calls in a row, your snipers switch off and you get a message. Top up, then switch them back on in Snipe. A wallet that fills a snipe in between resets the count.
+- **No double buys**: if the fast route times out, A.U.G.U.R checks your wallet before trying another route, so a buy that landed late is never bought a second time.
+
 ## The rug guard
 
 Before any snipe buys, the token goes through a rug guard, which **fails closed**: if it can't check, it doesn't buy. A snipe is skipped when:

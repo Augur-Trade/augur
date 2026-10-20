@@ -14,6 +14,9 @@
 
 **A.U.G.U.R** (*Autonomous Unit for Gauging Upside &amp; Risk*) is an autonomous trading agent. It reads every token before you buy, executes on the rules you set and manages your exits around the clock.
 
+> [!IMPORTANT]
+> **A.U.G.U.R launches within 7 days.** Holding $MAD? You carry over 1:1 at [augur-trade.com/collect](https://augur-trade.com/collect) until 24 Oct, 08:23 UTC. Only copy addresses from augur-trade.com. Launch news lands first in [t.me/AUGUR_Trade](https://t.me/AUGUR_Trade). No one from the team will ever DM you first.
+
 > [!NOTE]
 > This repository is the public showcase for A.U.G.U.R: product tour, docs and brand assets. The trading engine is closed source, so you won't find any code, keys or infrastructure here.
 

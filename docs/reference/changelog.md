@@ -4,6 +4,11 @@ Notable releases, newest first.
 
 ## October 2026
 
+- **Snipers switch off on an empty wallet** (20 Oct): two calls in a row without the SOL to buy and your snipers pause, with a message to top up. [Docs](../features/channel-sniper.md#speed-and-safety)
+- **Faster channel sniper** (20 Oct): calls are picked up about a second after they're posted, and the buy lands about half a second later.
+- **Official group** (19 Oct): [t.me/AUGUR_Trade](https://t.me/AUGUR_Trade), hosted by A.L.F. Launch news lands there first.
+- **No double buys** (18 Oct): a timed-out fast route is checked against your wallet before any other route buys. [Docs](../features/channel-sniper.md#speed-and-safety)
+- **MAD → A.U.G.U.R 1:1** (17 Oct): $MAD holders carry over 1:1 through [augur-trade.com/collect](https://augur-trade.com/collect) until 24 Oct, 08:23 UTC.
 - **Liquidity on every launchpad** (17 Oct): risk scans read a bonding curve's real liquidity from the chain for any launchpad, not just pump.fun, and pick the curve over tiny side pools. [Docs](../features/risk-scan.md)
 - **Invite links on augur-trade.com** (17 Oct): invite links, QR codes, share text and invite passes all point to the A.U.G.U.R invite page. [Docs](../features/referrals.md)
 - **Whale copy** (17 Oct): copy Meteora DLMM liquidity whales from your bot wallet.
