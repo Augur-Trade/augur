@@ -7,7 +7,7 @@
   <a href="https://x.com/AUGURtrading"><img src="https://img.shields.io/badge/follow-@AUGURtrading-ece8f6?style=for-the-badge&logo=x&labelColor=0c0a13" alt="Follow on X"></a>
   <a href="https://t.me/AUGUR_Trade"><img src="https://img.shields.io/badge/telegram-AUGUR__Trade-29a9eb?style=for-the-badge&logo=telegram&labelColor=0c0a13" alt="Telegram"></a>
   <a href="https://augur-trade.com/app/?explore=1"><img src="https://img.shields.io/badge/live_demo-no_account_needed-33e2a0?style=for-the-badge&labelColor=0c0a13" alt="Live demo"></a>
-  <a href="https://augur-trade.com/rug/"><img src="https://img.shields.io/badge/rugscope-free_token_scan-b49aff?style=for-the-badge&labelColor=0c0a13" alt="Rugscope"></a>
+  <a href="https://augur-trade.com/rug/"><img src="https://img.shields.io/badge/auspice-free_token_scan-b49aff?style=for-the-badge&labelColor=0c0a13" alt="Auspice"></a>
 </p>
 
 <p align="center"><b>Solana + 13 EVM chains</b> · <b>Scan before every buy</b><br><b>Exits checked every second</b> · <b>Browser, Telegram &amp; Android</b></p>
@@ -86,19 +86,19 @@ Every read ends in one verdict, **BUY**, **WATCH** or **AVOID**, with the reason
 
 [Ask A.L.F →](https://augur-trade.com/alf/)
 
-## A.U.G.U.R Rugscope
+## A.U.G.U.R Auspice
 
-<p align="center"><a href="https://github.com/Augur-Trade/rugscope"><img src="https://raw.githubusercontent.com/Augur-Trade/rugscope/main/media/header.jpg" alt="A.U.G.U.R Rugscope" width="100%"></a></p>
+<p align="center"><a href="https://github.com/Augur-Trade/auspice"><img src="https://raw.githubusercontent.com/Augur-Trade/auspice/main/media/header.jpg" alt="A.U.G.U.R Auspice" width="100%"></a></p>
 
 The rug checker behind every A.U.G.U.R buy, free for anyone: ten engines fire in parallel (bundle forensics, the dev's all-time record, insiders, named wallets, contract traps and a dump-probability model) and return one verdict in about a second. Solana and 13 EVM chains.
-[Scan a token](https://augur-trade.com/rug/) · engines, model card and free API: **[Augur-Trade/rugscope](https://github.com/Augur-Trade/rugscope)**
+[Scan a token](https://augur-trade.com/rug/) · engines, model card and free API: **[Augur-Trade/rugscope](https://github.com/Augur-Trade/auspice)**
 
-## A.U.G.U.R Synapse
+## A.U.G.U.R Foresight
 
-<p align="center"><a href="https://github.com/Augur-Trade/synapse"><img src="https://raw.githubusercontent.com/Augur-Trade/synapse/main/media/header.jpg" alt="A.U.G.U.R Synapse" width="100%"></a></p>
+<p align="center"><a href="https://github.com/Augur-Trade/foresight"><img src="https://raw.githubusercontent.com/Augur-Trade/foresight/main/media/header.jpg" alt="A.U.G.U.R Foresight" width="100%"></a></p>
 
 The data behind A.U.G.U.R, opened up to other AI agents: **79 tools** your agent can call over HTTP or MCP and pay for per call with x402 (USDC or SOL on Solana, USDC on Base). That covers pump.fun intelligence, launch and bundle forensics, rug-risk scoring, crypto and DeFi on every chain, and more.
-Endpoint reference, specs and SDKs: **[Augur-Trade/synapse](https://github.com/Augur-Trade/synapse)**
+Endpoint reference, specs and SDKs: **[Augur-Trade/synapse](https://github.com/Augur-Trade/foresight)**
 
 ## A.U.G.U.R Cards
 

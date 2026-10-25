@@ -24,4 +24,4 @@ Move funds **between any two supported chains, Solana included**, from inside th
 
 ## Scans on EVM
 
-The [risk scan](risk-scan.md) and [Rugscope](https://github.com/Augur-Trade/rugscope) cover EVM tokens too: honeypots, taxes, owner privileges and holder concentration.
+The [risk scan](risk-scan.md) and [Auspice](https://github.com/Augur-Trade/auspice) cover EVM tokens too: honeypots, taxes, owner privileges and holder concentration.

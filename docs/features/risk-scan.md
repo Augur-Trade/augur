@@ -34,6 +34,6 @@ An **Avoid** verdict means concrete red flags: a likely rug, a honeypot or a set
 - **Snipers:** a stricter [rug guard](channel-sniper.md#the-rug-guard) runs before every snipe and skips when it can't check.
 - **Whale copy:** every copy passes a token check before it opens.
 
-## Rugscope
+## Auspice
 
-The full scanner is **A.U.G.U.R Rugscope**: ten engines in parallel (bundle forensics, the developer's all-time record, insiders, named wallets, contract traps and a dump-probability model), with one verdict in about a second, for Solana and 13 EVM chains. Engines, model card and the free API: **[Augur-Trade/rugscope](https://github.com/Augur-Trade/rugscope)**.
+The full scanner is **A.U.G.U.R Auspice**: ten engines in parallel (bundle forensics, the developer's all-time record, insiders, named wallets, contract traps and a dump-probability model), with one verdict in about a second, for Solana and 13 EVM chains. Engines, model card and the free API: **[Augur-Trade/rugscope](https://github.com/Augur-Trade/auspice)**.

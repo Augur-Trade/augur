@@ -27,7 +27,7 @@ Open **Filters** to choose which calls you see and which ones auto-buy.
 
 **View rules** (what you see, on this device only): called within the last N hours, minimum current multiple, minimum peak multiple.
 
-**Presets:** *Pump.fun fresh*, *Deep pool*, *Synapse safe*, *Safer*, or *Clear rules*.
+**Presets:** *Pump.fun fresh*, *Deep pool*, *Foresight safe*, *Safer*, or *Clear rules*.
 
 The match bar shows how many calls passed, and a tally of why the others were skipped.
 

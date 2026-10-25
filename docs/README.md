@@ -63,8 +63,8 @@ Everything A.U.G.U.R does, how it works and how to use it. The trading engine is
 
 ## Related repositories
 
-- **[Augur-Trade/rugscope](https://github.com/Augur-Trade/rugscope)**: the free rug checker. Engines, model card and the free API.
-- **[Augur-Trade/synapse](https://github.com/Augur-Trade/synapse)**: 79 tools for AI agents over HTTP and MCP, paid per call. Endpoint reference, specs and SDKs.
+- **[Augur-Trade/rugscope](https://github.com/Augur-Trade/auspice)**: the free rug checker. Engines, model card and the free API.
+- **[Augur-Trade/synapse](https://github.com/Augur-Trade/foresight)**: 79 tools for AI agents over HTTP and MCP, paid per call. Endpoint reference, specs and SDKs.
 
 ---
 <sub>Trading crypto is risky. Nothing here is financial advice. A.L.F can be wrong.</sub>

@@ -39,7 +39,7 @@ Every wallet and every chain in one balance: holdings, send and receive, move SO
 | Section | What's there |
 |---|---|
 | **Featured** | A.U.G.U.R Arcade (free games with prizes) · A.L.F Agent (our AI agent's live public feed) |
-| **Trade** | Scan · Rugscope · Callers (pump.fun callers ranked on real results) · FOMO / [Flow](../features/flow.md) · [Copy Trader](../features/copy-trading.md) · Launch (create your own token) · [Whale copy](../features/whale-copy.md) |
+| **Trade** | Scan · Auspice · Callers (pump.fun callers ranked on real results) · FOMO / [Flow](../features/flow.md) · [Copy Trader](../features/copy-trading.md) · Launch (create your own token) · [Whale copy](../features/whale-copy.md) |
 | **Wallet & Pay** | [A.U.G.U.R Card](../features/cards.md) · [Invite](../features/referrals.md) · Buy SOL with a bank card |
 | **Community** | Chat, crews and profiles |
 | **Settings** | Sound, haptics, alerts and phone notifications (sells, buys, snipes, launches, whale copies, chat) |

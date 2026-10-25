@@ -21,7 +21,7 @@ Notable releases, newest first.
 - **Live prices everywhere** (15 Oct): charts, cards and positions all marked to the same live price.
 - **Snipe Top Picks** (13 Oct): auto-buy coins the pick model scores 90+. Top Picks rebuilt on a trained model.
 - **Widgets** (11 Oct): P&L, positions and whale stats on your Android home screen or as a floating overlay.
-- **Rugscope v3** (10 Oct): ten engines and a dump-probability model. [Augur-Trade/rugscope](https://github.com/Augur-Trade/rugscope)
+- **Auspice v3** (10 Oct): ten engines and a dump-probability model. [Augur-Trade/rugscope](https://github.com/Augur-Trade/auspice)
 - **Rug guard for snipers** (9 Oct): serial developers, concentrated supply and bundled launches are skipped before buying.
 - **Complete trade history** (9 Oct): Recent trades now includes on-chain swaps made outside the app.
 - **Token age** on every coin (9 Oct).
