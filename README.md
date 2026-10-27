@@ -17,7 +17,7 @@
 **A.U.G.U.R** (*Autonomous Unit for Gauging Upside &amp; Risk*) is an autonomous trading agent. It reads every token before you buy, executes on the rules you set and manages your exits around the clock.
 
 > [!IMPORTANT]
-> **A.U.G.U.R launches within 7 days.** Holding $MAD? You carry over 1:1 at [augur-trade.com/collect](https://augur-trade.com/collect) until 24 Oct, 08:23 UTC. Only copy addresses from augur-trade.com. Launch news lands first in [t.me/AUGUR_Trade](https://t.me/AUGUR_Trade). No one from the team will ever DM you first.
+> **A.U.G.U.R is live.** $AUGUR is trading — the real contract address, chart and live stats are at [augur-trade.com](https://augur-trade.com). Only ever copy the address from augur-trade.com or the pinned post in [t.me/AUGUR_Trade](https://t.me/AUGUR_Trade). No one from the team will ever DM you first.
 
 > [!NOTE]
 > This repository is the public showcase for A.U.G.U.R: product tour, docs and brand assets. The trading engine is closed source, so you won't find any code, keys or infrastructure here.
@@ -91,14 +91,14 @@ Every read ends in one verdict, **BUY**, **WATCH** or **AVOID**, with the reason
 <p align="center"><a href="https://github.com/Augur-Trade/auspice"><img src="https://raw.githubusercontent.com/Augur-Trade/auspice/main/media/header.jpg" alt="A.U.G.U.R Auspice" width="100%"></a></p>
 
 The rug checker behind every A.U.G.U.R buy, free for anyone: ten engines fire in parallel (bundle forensics, the dev's all-time record, insiders, named wallets, contract traps and a dump-probability model) and return one verdict in about a second. Solana and 13 EVM chains.
-[Scan a token](https://augur-trade.com/rug/) · engines, model card and free API: **[Augur-Trade/rugscope](https://github.com/Augur-Trade/auspice)**
+[Scan a token](https://augur-trade.com/rug/) · engines, model card and free API: **[Augur-Trade/auspice](https://github.com/Augur-Trade/auspice)**
 
 ## A.U.G.U.R Foresight
 
 <p align="center"><a href="https://github.com/Augur-Trade/foresight"><img src="https://raw.githubusercontent.com/Augur-Trade/foresight/main/media/header.jpg" alt="A.U.G.U.R Foresight" width="100%"></a></p>
 
 The data behind A.U.G.U.R, opened up to other AI agents: **79 tools** your agent can call over HTTP or MCP and pay for per call with x402 (USDC or SOL on Solana, USDC on Base). That covers pump.fun intelligence, launch and bundle forensics, rug-risk scoring, crypto and DeFi on every chain, and more.
-Endpoint reference, specs and SDKs: **[Augur-Trade/synapse](https://github.com/Augur-Trade/foresight)**
+Endpoint reference, specs and SDKs: **[Augur-Trade/foresight](https://github.com/Augur-Trade/foresight)**
 
 ## A.U.G.U.R Cards
 
