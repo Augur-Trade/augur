@@ -24,11 +24,9 @@ A 2% fee is taken on every buy: manual, sniped, from calls, copy trading or Top 
 
 These go to the Solana network, not to us:
 
-| Cost | Typical amount | Comes back? |
-|---|---|---|
-| Transaction fee + priority fee | A fraction of a cent to a few cents, higher when the network is busy | No |
-| Token-account rent | About 0.002 SOL per new token you buy | Yes, when the account is closed ([reclaim rent](wallets.md#rent-and-reclaiming-it)) |
-| Whale-copy position rent | About 0.06 SOL per open copy | Yes, when the copy closes |
+- **Transaction fee + priority fee**: A fraction of a cent to a few cents, higher when the network is busy. Comes back: no.
+- **Token-account rent**: About 0.002 SOL per new token you buy. Comes back: yes, when the account is closed ([reclaim rent](wallets.md#rent-and-reclaiming-it)).
+- **Whale-copy position rent**: About 0.06 SOL per open copy. Comes back: yes, when the copy closes.
 
 ## Where the fees go
 

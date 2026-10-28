@@ -90,14 +90,12 @@ Tap any whale to see:
 
 ## Where the numbers come from
 
-| Number | Source | Refreshed |
-|---|---|---|
-| Copy results (per copy, win rate, to copiers, outcomes) | Measured results of real copies: [whaletails.fun](https://whaletails.fun)'s copy records, and for whales they don't track, A.U.G.U.R's own engine copying with real money | Every 15 minutes |
-| A.U.G.U.R users' results | Every closed copy made by A.U.G.U.R users | Every 15 minutes |
-| Right now (open positions) | Meteora, live | Every 15 minutes |
-| Last active | The whale's latest transaction on chain | Every 15 minutes |
-| The whale's own book | The whale's full per-pool history on Meteora | Daily |
-| New finds' own 7d/30d record | The whale's per-pool history on Meteora | Hourly |
+- **Copy results (per copy, win rate, to copiers, outcomes)**: Measured results of real copies: [whaletails.fun](https://whaletails.fun)'s copy records, and for whales they don't track, A.U.G.U.R's own engine copying with real money. *Refreshed: every 15 minutes.*
+- **A.U.G.U.R users' results**: Every closed copy made by A.U.G.U.R users. *Refreshed: every 15 minutes.*
+- **Right now (open positions)**: Meteora, live. *Refreshed: every 15 minutes.*
+- **Last active**: The whale's latest transaction on chain. *Refreshed: every 15 minutes.*
+- **The whale's own book**: The whale's full per-pool history on Meteora. *Refreshed: daily.*
+- **New finds' own 7d/30d record**: The whale's per-pool history on Meteora. *Refreshed: hourly.*
 
 ### Why the whale's own profit isn't used to rank
 
@@ -204,13 +202,16 @@ See [Pricing and fees](pricing-and-fees.md).
 
 ## When a copy won't open
 
-| You see | Why | What to do |
-|---|---|---|
-| **Not set up** | No wallet chosen | Setup → Wallet |
-| **Paused** | Copying is off | Turn it on in My copies or Setup |
-| **On hold** | A close didn't complete, so new copies are held while it's retried | Check My copies for the reason. Open copies are still managed |
-| **Wallet issue** | The chosen wallet can't be used | Pick another wallet in Setup |
-| Active but nothing opens | Your whales haven't opened new positions, their deposits were under 2 SOL, the token failed the check, you're at max open copies or today's loss limit, or your wallet is short | Check the whales' "last active" and Live chips, your open copies and your wallet balance |
+- **Not set up**: No wallet chosen.  
+  **What to do:** Setup → Wallet.
+- **Paused**: Copying is off.  
+  **What to do:** Turn it on in My copies or Setup.
+- **On hold**: A close didn't complete, so new copies are held while it's retried.  
+  **What to do:** Check My copies for the reason. Open copies are still managed.
+- **Wallet issue**: The chosen wallet can't be used.  
+  **What to do:** Pick another wallet in Setup.
+- **Active but nothing opens**: Your whales haven't opened new positions, their deposits were under 2 SOL, the token failed the check, you're at max open copies or today's loss limit, or your wallet is short.  
+  **What to do:** Check the whales' "last active" and Live chips, your open copies and your wallet balance.
 
 ## Risks
 
