@@ -5,6 +5,10 @@ Everything A.U.G.U.R does, how it works and how to use it. The trading engine is
 > [!TIP]
 > New here? Start with **[Getting started](guides/getting-started.md)**, then try the **[live demo](https://augur-trade.com/app/?explore=1)**. It runs the real app on a demo account, so nothing in it is real money.
 
+## Whitepaper
+
+The big picture in one document: the platform, the $AUGUR token, holder rewards, the team supply lock and the risks. **[Read the whitepaper](../WHITEPAPER.md)** · [PDF](whitepaper/augur-whitepaper.pdf) · [web version](https://augur-trade.com/whitepaper/)
+
 ## Guides
 
 | | |

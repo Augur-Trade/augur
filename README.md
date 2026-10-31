@@ -8,6 +8,7 @@
   <a href="https://t.me/AUGUR_Trade"><img src="https://img.shields.io/badge/telegram-AUGUR__Trade-29a9eb?style=for-the-badge&logo=telegram&labelColor=0c0a13" alt="Telegram"></a>
   <a href="https://augur-trade.com/app/?explore=1"><img src="https://img.shields.io/badge/live_demo-no_account_needed-33e2a0?style=for-the-badge&labelColor=0c0a13" alt="Live demo"></a>
   <a href="https://augur-trade.com/rug/"><img src="https://img.shields.io/badge/auspice-free_token_scan-b49aff?style=for-the-badge&labelColor=0c0a13" alt="Auspice"></a>
+  <a href="WHITEPAPER.md"><img src="https://img.shields.io/badge/whitepaper-v1.0-e8b64f?style=for-the-badge&labelColor=0c0a13" alt="Whitepaper"></a>
 </p>
 
 <p align="center"><b>Solana + 13 EVM chains</b> · <b>Scan before every buy</b><br><b>Exits checked every second</b> · <b>Browser, Telegram &amp; Android</b></p>
@@ -18,6 +19,9 @@
 
 > [!IMPORTANT]
 > **A.U.G.U.R is live.** $AUGUR is trading — the real contract address, chart and live stats are at [augur-trade.com](https://augur-trade.com). Only ever copy the address from augur-trade.com or the pinned post in [t.me/AUGUR_Trade](https://t.me/AUGUR_Trade). No one from the team will ever DM you first.
+
+> [!TIP]
+> 📄 **New: the [A.U.G.U.R Whitepaper](WHITEPAPER.md)**, covering the platform, the $AUGUR token, holder rewards, the team supply lock (19.1% locked) and the risks. Also on the web at [augur-trade.com/whitepaper](https://augur-trade.com/whitepaper/) and as a [PDF](docs/whitepaper/augur-whitepaper.pdf).
 
 > [!NOTE]
 > This repository is the public showcase for A.U.G.U.R: product tour, docs and brand assets. The trading engine is closed source, so you won't find any code, keys or infrastructure here.
@@ -141,7 +145,7 @@ Virtual Visa and Mastercard cards for holders. Top up with SOL from your wallet,
 
 ## Documentation
 
-Full docs live in **[docs/](docs/README.md)**:
+Start with the **[Whitepaper](WHITEPAPER.md)** ([PDF](docs/whitepaper/augur-whitepaper.pdf)). Full docs live in **[docs/](docs/README.md)**:
 
 | Guides | Features | Reference |
 |---|---|---|
@@ -160,7 +164,7 @@ Full docs live in **[docs/](docs/README.md)**:
 - [Mint and freeze authority, explained](https://augur-trade.com/guides/solana-mint-freeze-authority/)
 - [Solana bundle checker](https://augur-trade.com/guides/solana-bundle-checker/)
 - [Reclaim Solana rent](https://augur-trade.com/guides/reclaim-solana-rent/)
-- [Full documentation](docs/README.md) · [FAQ](docs/FAQ.md) · [Brand guide](docs/BRAND.md)
+- [Whitepaper](WHITEPAPER.md) · [Full documentation](docs/README.md) · [FAQ](docs/FAQ.md) · [Brand guide](docs/BRAND.md)
 
 ## What's in this repo
 
